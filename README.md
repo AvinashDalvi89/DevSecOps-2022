@@ -13,6 +13,6 @@ Reference taken from https://github.com/slidevjs/slidev
 
 ## link : 
 - Slides : https://devsecops2022-slides.avinashdalvi.com
-- Session link : TBD
+- Session link : https://www.youtube.com/watch?v=upBfwP7CYvo&t=15750s
 
 
